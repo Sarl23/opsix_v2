@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-tech",
+      "description": "Enterprise automation interface showing complex workflows and a technical background",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "technology automation hero background"
+    },
+    {
+      "id": "magic-contact-dashboard",
+      "description": "Magic Contact dashboard interface with advisor management and AI insights",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop",
+      "imageHint": "dashboard interface metrics data"
+    }
+  ]
+}

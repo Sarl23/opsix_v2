@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-tech",
+      "description": "Abstract technology and automation background",
+      "imageUrl": "https://picsum.photos/seed/opsix-hero/1200/800",
+      "imageHint": "technology automation"
+    },
+    {
+      "id": "magic-contact-dashboard",
+      "description": "Modern SaaS dashboard interface",
+      "imageUrl": "https://picsum.photos/seed/dashboard/1000/600",
+      "imageHint": "dashboard interface"
+    },
+    {
+      "id": "ai-collaboration",
+      "description": "Human and AI working together",
+      "imageUrl": "https://picsum.photos/seed/ai-collab/800/600",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "customer-support",
+      "description": "Professional customer service representative",
+      "imageUrl": "https://picsum.photos/seed/support/800/600",
+      "imageHint": "customer service"
+    }
+  ]
+}
